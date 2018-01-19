@@ -1,1 +1,1 @@
-# text-mining-stock
+# TextMiningStock
